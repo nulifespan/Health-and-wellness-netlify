@@ -18,144 +18,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-a:hover{
-color:#c4c6fd;background:#002aff!important
-}
-footer *{
-font-size:16px !important;
-}
-.vb51630113fd011682be9ac3296c1f923{
-font-size:14.6px!important;
-font-style: italic;
-margin-top: 0;
-font-style: normal;
-color: #595959;
-}
-.z428148490864cbcfd7df625b4fc2788a{
-padding: 20px;
-background: #f5f5f7;
-margin-bottom: 30px;
-position: relative;
-border-radius: 2px;  
-
-margin-bottom: 30px;
-transition: all 400ms;
-}
-.navbar{
-padding-top:42px;padding-bottom:42px;
-}
-.d6e5d77813ee5d2882bb20dd195058cbc{
-font-size: 20.1px;
-font-weight: bold;
-}
-.z428148490864cbcfd7df625b4fc2788a > a{
-color:#000000;
-}
-.y67a37f2e8cb3ce3e24f8084d91030048{
-font-size:36px;font-weight:800
-}
-.nav-link{
-color: #5b5b5b;
-
-}
-.navbar-toggler span{
-display: flex;
-align-items: center;
-justify-content: center;
-border: 1px solid lightgrey;
-border-radius: 3px;
-}
-a{
-text-decoration: none;
-}
-.nav-item{
-padding-left:7.9px;
-padding-right:7.8px;
-padding-top:4.7px;
-padding-bottom:5px;
-}
-h1,h2,h3,h4,h5,h6{
-font-family:Montserrat, sans-serif
-}
-.f65727d6246ca982bca0ed98143bb9523 *{
-color:#ffffff;
-}
-h1{
-font-weight:900
-}
-.justify-content-evenly{
-justify-content: space-evenly;
-}
-.b0c5b01f815d33516b9168861ce0a3d6a{
-width: 100%;
-max-height: 720px;
-object-fit: cover;
-object-position: center;
-display: block;
-max-height: 100%;
-max-width: 100%;
-margin: auto;
-position: absolute;
-top: 0;
-left: 0;
-right: 0;
-}
-body{
-color: #535353;
-}
-.tee527947a5019d3156021705e2825496 p,.tee527947a5019d3156021705e2825496 a,.tee527947a5019d3156021705e2825496 span,.tee527947a5019d3156021705e2825496 label{
-font-size:16px!important;
-}
-.z428148490864cbcfd7df625b4fc2788a > .vb51630113fd011682be9ac3296c1f923 > a{
-text-decoration: none;
-}
-.tee527947a5019d3156021705e2825496{
-background:rgba(188,188,134,0.25);
-color:#444444;
-}
-.xe6c2ebf042494f99806a9be8839c8f3f *{
-color: white;
-}
-.btn-md{
-padding: 14.5px 29.7px;
-border-radius: 0;
-}
-.w31b2395d6f6e5006a837d8266ef8efbf{
-font-size: 13.8px;
-}
-.de244bff55d25835eb7b344e3c19a33f3{
-color:#fd834c!important;
-}
-*{
-font-family: 'Roboto', sans-serif;
-}
-.post-content *{
-
-font-size: 1.25rem;
-}
-ul li a{
-color:#fd834c
-}
-html{
-scroll-behavior: smooth;
-}
-.ud8a051cb4920795569629e6f806bc4a4{
-color: #4c4c4c;
-}
-.navbar a{
-font-size: 15.7px!important;
-font-weight: normal;text-transform:uppercase
-}
-.be0abcc4441216ca0f16ecf23a799e637{
-background:#FEF6EA;border-bottom:1px solid #bcbc86
-}
-.x93cbe61b4e322b248e387db59ecf98c1{
-background:#ffffff;
-}
-.a108d28295527f373afdd4dfca924892a{
+.f868617258fbff7c77ce0bfc34c111f57{
 color: #fff;
-background-color: #ff8651;
-border-color: #ff935e;
+background-color: #ff925d;
+border-color: #ff8a55;
 display: inline-block;
 font-weight: 800;
 line-height: 1.5;
@@ -167,103 +33,166 @@ font-size: 0.875rem;
 border-radius: 0;
 transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
-.vb51630113fd011682be9ac3296c1f923 a{
-color: white;
+.v79ed4085dd83fd3a530a2205ceaf9c68{
+padding: 20px;
+background: #f5f5f7;
+margin-bottom: 30px;
+position: relative;
+border-radius: 2px;  
+
+margin-bottom: 30px;
+transition: all 400ms;
 }
-.navbar-brand img{
-position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
-}
-.z428148490864cbcfd7df625b4fc2788a > a:focus, .z428148490864cbcfd7df625b4fc2788a > a:hover{
-text-decoration: none;
-color: #0a8fab;
-}
-.b1635427e92b9635b5da21ace74008bd9{
+.b83716f1393866ee678a411cab8ea7e19{
 font-weight: inherit;
-background-image: linear-gradient(120deg, #ffd365 0%, #ffcb5d 100%);
+background-image: linear-gradient(120deg, #ffd163 0%, #ffd86a 100%);
 background-repeat: no-repeat;
 background-size: 100% 30%;
 background-position: 0 90%;
 transition: background-size 0.2s ease-in;
 }
-.w104a8c9745b529211c6518b3911ad73f{
-transition: all 0.3s; 
+.navbar a{
+font-size: 15.8px!important;
+font-weight: normal;text-transform:uppercase
 }
-.x93cbe61b4e322b248e387db59ecf98c1 a{
-font-size:16px;
+.fcc6d0d76d026c1dd92ce326280681ae9 *{
+color: white;
 }
-.t0a158025f4da0e77c681d9f7602ce41d{
-color: #a4a4a4;
-font-size: 20.5px;
-margin-bottom: 21.2px;
+.a0c36c6fe8d3aa755564b153f642a53df:hover,.b83716f1393866ee678a411cab8ea7e19:hover{
+background-size: 100% 100% !important;
+background: #002aff!important;
+background-repeat: no-repeat !important;
+background-position: 0 90% !important;
+transition: background-size 0.2s ease-in !important;
 }
-.v205ab6f2d9a5194f12638e29b5bafa19 i:hover{
+.u554dc2ae4c13760eb78dc0ffeadef39f i:hover{
 background: white;
 color: #c4c6fd;!important;
 line-height: 35px;
 border-radius: 50%;
-width: 36.7px;
+width: 37.2px;
 text-align: center;
-height: 37px;
+height: 37.1px;
 }
-.v205ab6f2d9a5194f12638e29b5bafa19 i{
-border-radius: 50%;
-width: 37.1px;
-line-height: 35px;
-text-align: center;
-height: 36.6px;
+h1,h2,h3,h4,h5,h6{
+font-family:Montserrat, sans-serif
 }
-.z428148490864cbcfd7df625b4fc2788a > a > .zd9dcd26d456c7d954a7d4d0fcf7176fe{
-font-size: 22px;
+.ydad5a826073752f36d0504527c355589{
+font-size: 2rem !important;
+}
+.e783fc1ccaba5d25bb484f3fbac88fefc{
+transition: all 0.3s; 
+}
+.ececc6df077ea5177d9d528dc3fbc1fd4{
+font-size:36px;font-weight:800
+}
+.v79ed4085dd83fd3a530a2205ceaf9c68 > a > .dd433447f6921151c5d16665d57f85a94{
+font-size: 22.1px;
 margin-top: 1.875rem;
 margin-bottom: 0.625rem;
 }
-.xa22dc578fad1031e65413687a4085b76{
-font-size:16px!important;
-color: #737373;
+.e1434fe09660265a5603f11082709d41a{
+font-weight:900;
 }
-ul{
-text-decoration:none;display:inline-block;text-align:left
+.y863a3602cc90eac143fde1b87b9a7999 a{
+color: white;
+}
+.ub01c94f0f68103087a89845e23565dd7{
+text-decoration: underline!important;color:#ff851b!important
+}
+.navbar-toggler span{
+display: flex;
+align-items: center;
+justify-content: center;
+border: 1px solid lightgrey;
+border-radius: 3px;
+}
+.v79ed4085dd83fd3a530a2205ceaf9c68 > a:focus, .v79ed4085dd83fd3a530a2205ceaf9c68 > a:hover{
+text-decoration: none;
+color: #0d92ae;
+}
+.a8a6240939fd952134ed88f96cd5e9895{
+font-size: 20px;
+font-weight: bold;
+}
+.y863a3602cc90eac143fde1b87b9a7999{
+font-size:15.4px!important;
+font-style: italic;
+margin-top: 0;
+font-style: normal;
+color: #585858;
+}
+.zbbbce3cbe60307b2e7196da3a2592a46 a{
+font-size:16px;
+}
+.v79ed4085dd83fd3a530a2205ceaf9c68 > a{
+color:#000000;
+}
+.v37cc9e22eb093b6d304b24ab8a64b18f{
+color: #a7a7a7;
+font-size: 19.7px;
+margin-bottom: 20.7px;
+}
+.b8c0ea38a55469ae01a451d201f8e624b{
+font-size:16px!important;
+color: #727272;
+}
+.zbbbce3cbe60307b2e7196da3a2592a46 p,.zbbbce3cbe60307b2e7196da3a2592a46 span,.zbbbce3cbe60307b2e7196da3a2592a46 label{
+font-size:16px!important;
+}
+.y805993ba583592e5325acbf77ded6bb9{
+color: #434343;
+}
+.f05f505af229a58853aac5e92677f073c{
+background:#a55c5c!important ;
+}
+.navbar{
+padding-top:42px;padding-bottom:42px;
+}
+.justify-content-evenly{
+justify-content: space-evenly;
+}
+.zbbbce3cbe60307b2e7196da3a2592a46 *{
+color:#444444!important;
+}
+.btn-md{
+padding: 14.5px 30.2px;
+border-radius: 0;
+}
+.navbar-brand img{
+position:absolute;z-index:1000;top:0px;padding:20px 30px;background:white
+}
+.u554dc2ae4c13760eb78dc0ffeadef39f i{
+border-radius: 50%;
+width: 37.3px;
+line-height: 35px;
+text-align: center;
+height: 37.3px;
+}
+html{
+scroll-behavior: smooth;
+}
+ul li a{
+color:#fd834c
+}
+footer *{
+font-size:16px !important;
+}
+.eef75210339415c7cffad17411be3529b *{
+color:#ffffff;
 }
 footer a{
 color:#fd834c;
 text-decoration: underline;
 }
-footer{
-background:#090909;
-color:#ffffff;
+ul{
+text-decoration:none;display:inline-block;text-align:left
 }
-.x93cbe61b4e322b248e387db59ecf98c1 p,.x93cbe61b4e322b248e387db59ecf98c1 span,.x93cbe61b4e322b248e387db59ecf98c1 label{
-font-size:16px!important;
+.tf509bdb4084ac9ab083054b42fdd12c1{
+background:rgba(188,188,134,0.25);
+color:#404040;
 }
-.z428148490864cbcfd7df625b4fc2788a > a > .y9763ab94013a05531802da3339445470{
-font-weight: 400;
-margin-bottom: 0.625rem;
-line-height:1.7;
-font-size:15.3px;
-}
-.f854321ae5de37d1236e8cacbdb98fd6a{
-background:#a55c5c!important ;
-}
-h3,h2,h4,h5{
-font-weight:900;font-size:36px
-}
-.y82ce6fcdd589990a6e5ed65495732e41{
-font-weight:900;
-}
-.vc4f3819180e9e49cd677dc8b45745de8{
-text-decoration: underline!important;color:#ff8a20!important
-}
-.w5088e02e556047b1616f0b37320ef69f{
-font-size:61px!important;font-weight:600
-}
-.z428148490864cbcfd7df625b4fc2788a:hover{
-box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
-border-radius: 5px;
-}
-iframe{
-border: none!important;
-}
-.z14ebc0b599c4190ad5bd584e04fb0afb{
+.ubd31ecb5b4bf42afe58a810daa3be966{
     background-color: transparent;
 font-size: 23.5px;
 height: 47.8px;
@@ -282,21 +211,92 @@ border-radius: 100px;
 font-weight: 900;
 font-size: 16px;
 }
-.x93cbe61b4e322b248e387db59ecf98c1 *{
-color:#484848!important;
+.x3e9fd1f7a9793d906e5b6b78811c646e{
+font-size:61px!important;font-weight:600
 }
-.yc2d72cc181d54c5178fb552af071be93:hover,.b1635427e92b9635b5da21ace74008bd9:hover{
-background-size: 100% 100% !important;
-background: #002aff!important;
-background-repeat: no-repeat !important;
-background-position: 0 90% !important;
-transition: background-size 0.2s ease-in !important;
-}
-.ebae8285a0321876f9626a3847bf34805{
-font-size: 2rem !important;
+.v79ed4085dd83fd3a530a2205ceaf9c68 > a > .y3013fbf60a92ef40a6e75d0cd23f334c{
+font-weight: 400;
+margin-bottom: 0.625rem;
+line-height:1.7;
+font-size:15.3px;
 }
 .container{
 max-width:1300px
+}
+h1{
+font-weight:900
+}
+.w0ebd45554566f5bfa210a0971612dc86{
+width: 100%;
+max-height: 720px;
+object-fit: cover;
+object-position: center;
+display: block;
+max-height: 100%;
+max-width: 100%;
+margin: auto;
+position: absolute;
+top: 0;
+left: 0;
+right: 0;
+}
+.post-content *{
+
+font-size: 1.25rem;
+}
+*{
+font-family: 'Roboto', sans-serif;
+}
+footer{
+background:#000000;
+color:#ffffff;
+}
+.yfc16793e1ad125e927212fcfff400cac{
+color:#fd834c!important;
+}
+.z88c628849e84b141693653d05fcb2a68{
+font-size: 13.7px;
+}
+.tf509bdb4084ac9ab083054b42fdd12c1 p,.tf509bdb4084ac9ab083054b42fdd12c1 a,.tf509bdb4084ac9ab083054b42fdd12c1 span,.tf509bdb4084ac9ab083054b42fdd12c1 label{
+font-size:16px!important;
+}
+h3,h2,h4,h5{
+font-weight:900;font-size:36px
+}
+.nav-item{
+padding-left:8.3px;
+padding-right:8.3px;
+padding-top:5.1px;
+padding-bottom:5.1px;
+}
+.xc32a04fd04ddc030d603eea7de9c09ec{
+background:#FEF6EA;border-bottom:1px solid #bcbc86
+}
+iframe{
+border: none!important;
+}
+a{
+text-decoration: none;
+}
+.v79ed4085dd83fd3a530a2205ceaf9c68:hover{
+box-shadow: 0 20px 40px -5px rgba(9,30,66,.3);
+border-radius: 5px;
+}
+.zbbbce3cbe60307b2e7196da3a2592a46{
+background:#ffffff;
+}
+a:hover{
+color:#c4c6fd;background:#002aff!important
+}
+.v79ed4085dd83fd3a530a2205ceaf9c68 > .y863a3602cc90eac143fde1b87b9a7999 > a{
+text-decoration: none;
+}
+.nav-link{
+color: #5b5b5b;
+
+}
+body{
+color: #404040;
 }
     .dropdown-submenu {
     position: relative;
@@ -416,12 +416,12 @@ max-width:1300px
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar container">
+<nav class="container navbar navbar-expand-lg">
 <a class="navbar-brand" href="index.html"  ><img alt="img/logo.png" src="img/logo.png"  width="200px" height="190px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon  fa fa-bars"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto navbar-nav d-flex align-items-center"><li class="nav-item"><a class="yc2d72cc181d54c5178fb552af071be93 nav-link" href="news.html"  >Blogs</a></li>
- <li class="nav-item"><a class="yc2d72cc181d54c5178fb552af071be93 nav-link"  href="about-us.html">About us</a>
+<ul class="d-flex ml-auto align-items-center navbar-nav"><li class="nav-item"><a class="a0c36c6fe8d3aa755564b153f642a53df nav-link" href="news.html"  >Blogs</a></li>
+ <li class="nav-item"><a class="nav-link a0c36c6fe8d3aa755564b153f642a53df"  href="about-us.html">About us</a>
 </li></ul>
 </div>
 </nav>
@@ -493,17 +493,17 @@ max-width:1300px
 <p>This policy may be revised periodically to reflect changes in our practices or applicable law. Updates will appear on this page with a new &quot;last updated&quot; date.</p>
 </section>
 <footer>
-<div class="container py-4 pt-5" >
-<div class="row"><div class="col-lg-3"><p><a class="yc2d72cc181d54c5178fb552af071be93" href="sitemap.html" >Sitemap</a></p>
-<p><a class="yc2d72cc181d54c5178fb552af071be93" href="privacy-policy.html" >Privacy Policy</a></p>
-<p><a class="yc2d72cc181d54c5178fb552af071be93" href="about-us.html" >About us</a></p>
+<div class="py-4 container pt-5" >
+<div class="row"><div class="col-lg-3"><p><a class="a0c36c6fe8d3aa755564b153f642a53df" href="sitemap.html" >Sitemap</a></p>
+<p><a class="a0c36c6fe8d3aa755564b153f642a53df" href="privacy-policy.html" >Privacy Policy</a></p>
+<p><a class="a0c36c6fe8d3aa755564b153f642a53df" href="about-us.html" >About us</a></p>
 </p>
 </div><div class="col-lg-3">
 <div>
 <p>Follow us</p>
-<a href="https://www.facebook.com/NulifespanHQ" class="v205ab6f2d9a5194f12638e29b5bafa19 facebook" ><i class="fa fa-facebook"></i></a>
-<a href="https://www.instagram.com/nulifespan/" class="v205ab6f2d9a5194f12638e29b5bafa19 google-plus" ><i class="fa fa-instagram"></i></a>
-<a href="twitter.com/nulifespan" class="v205ab6f2d9a5194f12638e29b5bafa19 twitter" rel="nofollow"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/NulifespanHQ" class="u554dc2ae4c13760eb78dc0ffeadef39f facebook" ><i class="fa fa-facebook"></i></a>
+<a href="https://www.instagram.com/nulifespan/" class="u554dc2ae4c13760eb78dc0ffeadef39f google-plus" ><i class="fa fa-instagram"></i></a>
+<a href="twitter.com/nulifespan" class="twitter u554dc2ae4c13760eb78dc0ffeadef39f" rel="nofollow"><i class="fa fa-twitter"></i></a>
 </div>
 </div></div>
 </div>
